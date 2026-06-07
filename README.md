@@ -41,7 +41,8 @@ The project began as a simple orbital visualization and gradually evolved into a
 ## 📂 Project Structure
 
 ```text
-Satellite-Orbit-Simulator
+Satellite-Orbit-Simulator ── Other codes 
+│                               
 │
 ├── src
 │   ├── orbit_designer.py
@@ -49,13 +50,16 @@ Satellite-Orbit-Simulator
 │   ├── mission_control_pro.py
 │   └── mission_control_ai.py
 │
-├── screenshots
+├── multi_satellite.py
 │
-├── docs
+├── mission_planner.py
 │
-├── requirements.txt
 ├── README.md
-└── LICENSE
+│
+├── Screenshots
+│
+└── requirements.txt
+
 ```
 
 ---
@@ -141,7 +145,7 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
-### Mission_Satelite.py
+### MUlti_Satelite.py
 
 <p align="center">
 <img width="420.5" height="436.5" alt="Screenshot 2026-06-07 144238" src="https://github.com/user-attachments/assets/c80ebbcc-4334-4a30-ac4c-c497215f21cd" /> <img width="420.5" height="436.5" alt="Screenshot 2026-06-07 144311" src="https://github.com/user-attachments/assets/52506f80-3afd-4216-8272-f642f7246b76" />
