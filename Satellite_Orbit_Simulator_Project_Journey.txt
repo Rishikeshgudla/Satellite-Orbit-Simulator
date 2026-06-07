@@ -1,0 +1,73 @@
+Satellite Orbit Simulator Project Journey
+
+This document summarizes the project journey of building a Satellite Orbit Simulator and related mission-control tools in Python. The project evolved from a beginner-friendly orbital simulation into a multi-phase aerospace-inspired portfolio project.
+
+
+Phase 1
+Environment setup, Python installation, VS Code configuration, NumPy and Matplotlib installation, first orbit simulations.
+
+Phase 2
+Multi-satellite simulation, Earth visualization, ground tracks, latitude/longitude display, elliptical orbits, orbital velocity calculations.
+Mission Planner with menu-driven satellite selection and mission parameters.
+Coverage footprints, ground station visibility concepts, mission-control style dashboards.
+
+Final Phase 
+Orbit Designer tool with user-defined altitude, inclination, eccentricity and orbital calculations.
+3D Orbit Designer with Earth model, animated satellite, orbit trail, dashboard and rotating camera.
+Mission Control Pro featuring multiple satellites, perigee/apogee markers, collision monitoring and event logs.
+Mission Control AI featuring satellite database management, mission save/load, health simulation and reporting.
+
+Final Project Structure
+orbit_designer.py
+orbit_designer_3d.py
+mission_control_pro.py
+mission_control_ai.py
+mission_planner.py
+multi_satellite.py
+README.md
+requirements.txt
+screenshots/
+docs/
+
+
+Key Skills Demonstrated
+Python Programming
+Object-Oriented Programming
+Scientific Computing (NumPy)
+Data Visualization (Matplotlib)
+Animation and Simulation
+Aerospace Concepts and Orbital Mechanics
+Project Structuring and GitHub Portfolio Development
+
+Congratulations on completing the development journey. The next recommended step is polishing the repository with documentation, screenshots, diagrams, and a professional README.
+
+Project codes explanation
+main.py – first orbit simulation and adding satellite position
+orbit_animation.py – designing of Animation orbit
+orbit_info.py – Display orbital information like altitude, velocity, period.
+user_orbit.py – User controlled orbit simulation
+multi_orbit.py – Compare multiple orbits (LEO, MEO, GEO)
+live_orbit.py – Realtime satellite motion (satellite leaves a visible path behind it )
+orbital_calculator.py – Calculate real orbital parameters
+earth_3d.py – Designing of 3D sphere environment 
+orbit_3d.py – Adding a satellite to orbit
+satellite_3d.py - Adding a satellite marker (X)
+inclined_orbit.py – We make the orbit tilted cause real satellites don’t orbit exactly around equator.
+animated_3d_orbit.py - enter satellite altitude and inclination (try diff satellites: ISS, polar satellites, GEO)
+mission_control.py – Mission control dashboard
+multi_satellite_intial.py – Multi satellite constellation simulator
+multi_satellite1.py – Add Real orbital Mechanics to “ multi_satellite_intial.py ”  file
+multi_satellite_2.py – Add Real orbital velocity to “ multi_satellite1.py ” file’
+multi_satellite.py – Final one with satellite coverage footprint and ground station network simulator
+mission_planner.py – Mission Planning console
+orbit_designer.py - instead of selecting pre-defined satellites, the user will design their own mission
+orbit_designer_3d.py - 3D Mission Designer
+mission_control_pro.py  
+mission_control_ai.py – Final code which adds 
+Interactive satellite creation 
+Save mission to file 
+Load mission from file 
+Generate PDF mission report 
+Statistics panel 
+Mission timeline 
+Satellite health simulation
