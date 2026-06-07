@@ -16,7 +16,7 @@ Orbit Designer
 
 <img width="301.5" height="445" alt="Mission control" src="https://github.com/user-attachments/assets/cf7bf855-4b70-4568-92c8-93b876468061" />
 
-### Mission_Satelite.py
+### Multi_Satelite.py
 
 <p align="center">
 <img width="420.5" height="436.5" alt="Screenshot 2026-06-07 144238" src="https://github.com/user-attachments/assets/c80ebbcc-4334-4a30-ac4c-c497215f21cd" /> <img width="420.5" height="436.5" alt="Screenshot 2026-06-07 144311" src="https://github.com/user-attachments/assets/52506f80-3afd-4216-8272-f642f7246b76" />
