@@ -50,9 +50,9 @@ Satellite-Orbit-Simulator ── Other codes
 │   ├── mission_control_pro.py
 │   └── mission_control_ai.py
 │
-├── multi_satellite.py
-│
 ├── mission_planner.py
+│
+├── multi_satellite.py
 │
 ├── README.md
 │
