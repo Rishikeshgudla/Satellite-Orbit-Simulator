@@ -12,7 +12,7 @@ Orbit Designer
 
 <img width="258" height="264.5" alt="Demosat terminal" src="https://github.com/user-attachments/assets/56c5e37b-1d81-4d17-ace2-fa3fb0abb883" /> <img width="356.5" height="264.5" alt="ISS terminal" src="https://github.com/user-attachments/assets/c3be9587-aa37-4811-b0e1-a483ad48eaa9" />
 
-### Mission Conrol AI
+### Mission Control AI
 
 <img width="301.5" height="445" alt="Mission control" src="https://github.com/user-attachments/assets/cf7bf855-4b70-4568-92c8-93b876468061" />
 
