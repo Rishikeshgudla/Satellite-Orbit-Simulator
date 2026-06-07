@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Demosat",
+        "altitude": 500.0,
+        "inclination": 45.0,
+        "eccentricity": 0.2,
+        "health": 100
+    },
+    {
+        "name": "ISS",
+        "altitude": 420.0,
+        "inclination": 51.6,
+        "eccentricity": 0.01,
+        "health": 100
+    },
+    {
+        "name": "polar satellite",
+        "altitude": 700.0,
+        "inclination": 90.0,
+        "eccentricity": 0.7,
+        "health": 100
+    },
+    {
+        "name": "GEO",
+        "altitude": 35786.0,
+        "inclination": 0.0,
+        "eccentricity": 0.9,
+        "health": 100
+    }
+]
