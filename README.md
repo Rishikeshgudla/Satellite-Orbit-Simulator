@@ -142,7 +142,7 @@ pip install -r requirements.txt
 
 ### Mission Control AI
 
-<img width="301.5" height="445" alt="Mission control" src="https://github.com/user-attachments/assets/cf7bf855-4b70-4568-92c8-93b876468061" />
+<img width="301.5" height="445" alt="Mission control" src="https://github.com/user-attachments/assets/cf7bf855-4b70-4568-92c8-93b876468061" /> <img width="657.6" height="445" alt="Project display" src="https://github.com/user-attachments/assets/52b23c43-023f-432a-9a63-16003f8362f3" />
 
 ## 📸 Screenshots
 
@@ -173,7 +173,7 @@ This project helped develop skills in:
 - Aerospace Simulation
 - Orbital Mechanics
 - Scientific Programming
-- Python Development
+ Python Development
 - Data Visualization
 - Mission Planning Concepts
 - Software Project Organization
